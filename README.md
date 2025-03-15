@@ -4,9 +4,9 @@
 Hello to my first github pages this page is for learning only 
 
 
-### projects 
+# projects 
 building right now 
 
 
-### professional experience 
+# professional experience 
 currently zero but i am trying my best to get some 

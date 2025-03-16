@@ -5,7 +5,7 @@ Hello to my first github pages this page is for learning only
 
 
 # projects 
-building right now 
+Building right now.. 
 
 
 # professional experience 
